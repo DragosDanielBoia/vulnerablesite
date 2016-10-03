@@ -1,2 +1,2 @@
 # vulnerablesite
-Vulnerable site
+WebSec code is available at https://github.com/Microsoft/sesopen
